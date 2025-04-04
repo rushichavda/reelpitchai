@@ -1,0 +1,6 @@
+gradio
+python-pptx
+gtts
+moviepy
+openai
+Pillow
